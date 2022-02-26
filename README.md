@@ -15,6 +15,6 @@
 #### 👯 Would like to collaborate for small to medium projects - Javascript/Python
 
 #### 📫 How to reach me:
-    - [Twitter](https://twitter.com/BurlaHitesh)
+    - [Twitter](https://twitter.com/burla_hitesh)
     - [Linkedin](https://www.linkedin.com/in/hitesh-burla/)
     - Email - hitesh.burla96@gmail.com
